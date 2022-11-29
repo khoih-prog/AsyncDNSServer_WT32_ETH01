@@ -92,7 +92,7 @@ to apply the better and faster **asynchronous** feature of the **powerful** [Asy
  1. [`Arduino IDE 1.8.19+` for Arduino](https://www.arduino.cc/en/Main/Software)
  2. [`ESP32 Core 2.0.5+`](https://github.com/espressif/arduino-esp32) for ESP32-based boards. [![Latest release](https://img.shields.io/github/release/espressif/arduino-esp32.svg)](https://github.com/espressif/arduino-esp32/releases/latest/)
  3. [`WebServer_WT32_ETH01 library 1.5.1+`](https://github.com/khoih-prog/WebServer_WT32_ETH01). To install, check [![arduino-library-badge](https://www.ardu-badge.com/badge/WebServer_WT32_ETH01.svg?)](https://www.ardu-badge.com/WebServer_WT32_ETH01)
- 4. [`AsyncUdp_WT32_ETH01 library 2.1.0+`](https://github.com/khoih-prog/AsyncUdp_WT32_ETH01). To install, check [![arduino-library-badge](https://www.ardu-badge.com/badge/AsyncUdp_WT32_ETH01.svg?)](https://www.ardu-badge.com/AsyncUdp_WT32_ETH01)
+ 4. [`AsyncUDP_WT32_ETH01 library 2.1.0+`](https://github.com/khoih-prog/AsyncUdp_WT32_ETH01). To install, check [![arduino-library-badge](https://www.ardu-badge.com/badge/AsyncUDP_WT32_ETH01.svg?)](https://www.ardu-badge.com/AsyncUDP_WT32_ETH01)
  
 ---
 ---

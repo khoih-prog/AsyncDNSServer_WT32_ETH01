@@ -39,7 +39,7 @@
     },
     {
       "owner": "khoih-prog",
-      "name": "AsyncUdp_WT32_ETH01",
+      "name": "AsyncUDP_WT32_ETH01",
       "version": "^2.1.0",
       "platforms": "espressif32"
     }
